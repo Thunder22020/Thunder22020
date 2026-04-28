@@ -1,5 +1,7 @@
 # Hi 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Thunder22020)](https://git.io/streak-stats)
+
 I'm Danya — backend developer passionate about building scalable and reliable systems.
 
 ## 🚀 Experience
