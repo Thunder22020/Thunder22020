@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**Thunder22020/Thunder22020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Danya — backend developer passionate about building scalable and reliable systems.
 
-Here are some ideas to get you started:
+## 🚀 Experience
+- Yandex Internship
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Telegram: https://t.me/Thunder22020
+
+## 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/-Java-181717?style=for-the-badge&logo=openjdk)
+![Kotlin](https://img.shields.io/badge/-Kotlin-181717?style=for-the-badge&logo=kotlin)
+![Spring](https://img.shields.io/badge/-Spring-181717?style=for-the-badge&logo=spring)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-181717?style=for-the-badge&logo=redis)
+![Kafka](https://img.shields.io/badge/-Kafka-181717?style=for-the-badge&logo=apachekafka)
+![Docker](https://img.shields.io/badge/-Docker-181717?style=for-the-badge&logo=docker)
+![Maven](https://img.shields.io/badge/-Maven-181717?style=for-the-badge&logo=apachemaven)
+![Linux](https://img.shields.io/badge/-Linux-181717?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git)
