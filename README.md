@@ -1,6 +1,6 @@
 # Hi 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Thunder22020)](https://git.io/streak-stats)
+[![codewars](https://www.codewars.com/users/Thunder22020/badges/large)](https://www.codewars.com/users/Thunder22020)
 
 I'm Danya — backend developer passionate about building scalable and reliable systems.
 
