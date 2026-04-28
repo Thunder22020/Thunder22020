@@ -1,37 +1,18 @@
-<div>
-  <h1 style="border:none;">Hi 👋</h1>
-</div>
+перепиши на HTML
 
-<p>
-  I'm Danya — backend developer passionate about building scalable and reliable systems.
-</p>
+# Hi 👋
 
-<br>
+![Leetcode Stats](https://leetcard.jacoblin.cool/Thunder22020)
 
-<div>
-  <b>🚀 Experience</b>
-</div>
-<ul>
-  <li>Yandex Internship</li>
-</ul>
+I'm Danya — backend developer passionate about building scalable and reliable systems.
 
-<br>
+## 🚀 Experience
+- Yandex Internship
 
-<div>
-  <b>📫 Contact</b>
-</div>
-<ul>
-  <li>
-    Telegram:
-    <a href="https://t.me/Thunder22020">https://t.me/Thunder22020</a>
-  </li>
-</ul>
+## 📫 Contact
+- Telegram: https://t.me/Thunder22020
 
-<br>
-
-<div>
-  <b>🛠 Tech Stack</b>
-</div>
+## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-181717?logo=openjdk)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-181717?logo=kotlin)
