@@ -4,7 +4,8 @@
   I'm Danya — backend developer passionate about building scalable and reliable systems.
 </p>
 
-<h2 style="border-bottom: none;">🚀 Experience</h2>
+
+<h3 style="border-bottom: none;">🚀 Experience</h3>
 <ul>
   <li>Yandex Internship</li>
   <li>Commercial Startups</li>
@@ -12,7 +13,9 @@
   <li>Rostelecom Infrastucture Product Development</li>
 </ul>
 
-<h2 style="border-bottom: none;">📫 Contact</h2>
+---
+
+<h3 style="border-bottom: none;">📫 Contact</h3>
 <ul>
   <li>
     Telegram:
@@ -20,7 +23,9 @@
   </li>
 </ul>
 
-<h2 style="border-bottom: none;">🛠 Tech Stack</h2>
+---
+
+<h3 style="border-bottom: none;">🛠 Tech Stack</h3>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
